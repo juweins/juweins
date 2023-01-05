@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julian @juweins
 - 👀 I’m interested in developing distributed, lightweight systems.
 - 🌱 I’m currently learning Azure Data Engineering, Networking & Administration and DevOps/SE fundamentals.
-- 💞️ I’m looking to collaborate on Data Engineering OSS Projects
+- 💞️ I’m looking to collaborate on OSS Projects
 - Do not hesitate to ask for my collaboration! All projects welcome! :)
 
 <!---
