@@ -7,13 +7,12 @@ I am a data and code enthusiast, fascinated by all kinds of modern technology! C
 
 ## 💪🏽 My Stats
 
-
 <div>
-  <img height="165em" width="45%" src="https://github-readme-stats.vercel.app/api?username=juweins&theme=dark&show_icons=true">
-  <img height="165em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juweins&layout=compact&theme=dark">
+  <img height="165em" width="45%" src="https://github-readme-stats.vercel.app/api?username=juweins&theme=github_dark&show_icons=true">
+  <img height="165em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juweins&layout=compact&theme=github_dark">
 </div>
 
-### 👍🏽 OSS Contributor
+## 👍🏽 OSS Contributor
 - Proud to be a contributor to 💜[airbyte](https://airbyte.com/) 
 
 
