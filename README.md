@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="./resources/header_1920_640.png" alt="Header" width="400">
-</div>
+<img src="./resources/header_1920_640.png" alt="Header">
 
 
 ## 👋🏽 Hi there, I am Julian Weins
