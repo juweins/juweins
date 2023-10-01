@@ -21,7 +21,7 @@ Please feel invited to connect with me:
 
 ## 👍🏽 OSS Contributor
 - Proud to be a contributor to 💜[airbyte](https://airbyte.com/) in 2022
-- Looking forward to take part in [OpenTF](https://opentf.org/)
+- Looking forward to help developing [OpenToFu](https://opentofu.org/) in 2023
 
 
 ## ⚡ Domains:
